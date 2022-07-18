@@ -42,11 +42,11 @@
 [rctrl]>[kpshift]
 [kp-rctrl]>[kpshift]
 
-* vim-like (not really) movements on kpshift+jkl;
-[kp4]>[left]
+* vim-like (really) movements
+[kp-h]>[left]
 [kp5]>[down]
-[kpplus]>[right]
-[kp6]>[up]
+[kp6]>[right]
+[kp4]>[up]
 
 * additional usual actions in keypad layer in uiop
 [kp7]>[tab]
@@ -58,10 +58,10 @@
 [lalt]>[lctrl]
 
 *  up/right are wins and down/left are alts
-[up]>[rwin]
-[right]>[rwin]
-[left]>[lalt]
-[down]>[ralt]
+[up]>[lwin]
+[right]>[lwin]
+[left]>[ralt]
+[down]>[lalt]
 
 * caps is vim-like esc or shift
 [caps]>[escape][t&h200][lshift]
