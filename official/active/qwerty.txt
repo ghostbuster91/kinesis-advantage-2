@@ -64,3 +64,8 @@
 
 * enter is either enter or shift depending on holding
 [enter]>[enter][t&h200][rshift]
+
+[bspace]>[bspace][t&h200][lalt]
+[kp-bspace]>[bspace][t&h200][lalt]
+[space]>[space][t&h200][lalt]
+[kp0]>[space][t&h200][lalt]
