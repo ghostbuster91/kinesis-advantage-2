@@ -51,9 +51,13 @@
 
 *  up/right are wins and down/left are alts
 [up]>[lwin]
+[kp-up]>[lwin]
 [right]>[lwin]
+[kp-right]>[lwin]
 [left]>[ralt]
+[kp-left]>[ralt]
 [down]>[lalt]
+[kp-down]>[lalt]
 
 * caps is vim-like esc or shift
 [caps]>[escape][t&h200][lshift]
