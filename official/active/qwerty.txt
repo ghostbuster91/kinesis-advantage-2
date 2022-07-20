@@ -1,6 +1,9 @@
 * backward^W neural compatibility
 [escape]>[caps]
 [lshift]>[lctrl]
+[kp-lshift]>[lctrl]
+[rshift]>[lctrl]
+[kp-rshift]>[lctrl]
 [delete]>[lshift]
 
 * mapping i3 workplaces changes 
