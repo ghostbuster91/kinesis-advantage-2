@@ -23,14 +23,6 @@
 {rshift}{f7}>{-rwin}{-rshift}{7}{+rshift}{+rwin}
 {rshift}{f8}>{-rwin}{-rshift}{8}{+rshift}{+rwin}
 
-* {} are more usual than []
-{obrack}>{speed4}{-lshift}{obrack}{+lshift}
-{lshift}{obrack}>{speed4}{obrack}
-{rshift}{obrack}>{speed4}{obrack}
-{cbrack}>{speed4}{-lshift}{cbrack}{+lshift}
-{lshift}{cbrack}>{speed4}{cbrack}
-{rshift}{cbrack}>{speed4}{cbrack}
-
 * make copy-pasting a quick artistic instinct
 {end}>{-lctrl}{c}{+lctrl}
 {home}>{-lctrl}{v}{+lctrl}
