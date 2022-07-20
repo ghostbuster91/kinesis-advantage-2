@@ -70,5 +70,5 @@
 
 [bspace]>[bspace][t&h200][lalt]
 [kp-bspace]>[bspace][t&h200][lalt]
-[space]>[space][t&h200][lalt]
-[kp0]>[space][t&h200][lalt]
+[space]>[space][t&h200][ralt]
+[kp0]>[space][t&h200][ralt]
