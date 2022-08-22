@@ -39,9 +39,9 @@
 
 * vim-like (really) movements
 [kp-h]>[left]
-[kp5]>[down]
+[kp4]>[down]
 [kp6]>[right]
-[kp4]>[up]
+[kp5]>[up]
 
 * additional usual actions in keypad layer in uiop
 [kp7]>[tab]
