@@ -1,0 +1,76 @@
+
+* colemak-dh
+
+[e]>[f]
+[r]>[p]
+[y]>[b]
+[s]>[r]
+[d]>[s]
+[f]>[t]
+[v]>[d]
+[b]>[v]
+
+[u]>[l]
+[i]>[u]
+[o]>[y]
+[p]>[;]
+[h]>[m]
+[j]>[n]
+[k]>[e]
+[l]>[i]
+[;]>[o]
+[n]>[k]
+[m]>[h]
+
+
+
+* backward^W neural compatibility
+[escape]>[caps]
+[lshift]>[lctrl]
+[kp-lshift]>[lctrl]
+[rshift]>[lctrl]
+[kp-rshift]>[lctrl]
+[delete]>[lshift]
+
+
+* set the keypad layer mapped to rctrl and lctrl
+[lctrl]>[kpshift]
+[kp-lctrl]>[kpshift]
+[rctrl]>[kpshift]
+[kp-rctrl]>[kpshift]
+
+* vim-like (really) movements
+[kp-h]>[left]
+[kp4]>[down]
+[kp6]>[right]
+[kp5]>[up]
+
+* additional usual actions in keypad layer in uiop
+[kp7]>[tab]
+[kp8]>[home]
+[kp9]>[end]
+
+* upper row on thumb has ctrls
+[rwin]>[rctrl]
+[lalt]>[lctrl]
+
+*  up/right are wins and down/left are alts
+[up]>[lwin]
+[kp-up]>[lwin]
+[right]>[lwin]
+[kp-right]>[lwin]
+[left]>[ralt]
+[kp-left]>[ralt]
+[down]>[lalt]
+[kp-down]>[lalt]
+
+* caps is vim-like esc or shift
+[caps]>[escape][t&h200][lshift]
+
+* enter is either enter or shift depending on holding
+[enter]>[enter][t&h200][rshift]
+
+[bspace]>[bspace][t&h200][lalt]
+[kp-bspace]>[bspace][t&h200][lalt]
+[space]>[space][t&h200][ralt]
+[kp0]>[space][t&h200][ralt]
